@@ -41,7 +41,7 @@ located_in: Monterrey, Mexico
 education:
   [
     "Self-Taught Developer",
-    "Student in Computer Science",
+    "Student of Computer Science at Autonomous University of Nuevo León",
   ]
 fields_of_interests:
   [
@@ -51,7 +51,8 @@ fields_of_interests:
     "App Development"
 
   ]
-currently_learning: ["R, SQL, React Native, TypeScript"]
+main_languages: [Python, C]
+currently_learning: ["C++, Java, R, SQL"]
 ```
 
 ---
